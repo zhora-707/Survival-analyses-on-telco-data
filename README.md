@@ -45,7 +45,7 @@ The analysis provides insights and actionable recommendations for marketing stra
 
 1. Ensure you have the necessary libraries installed (`pandas`, `lifelines`, `matplotlib`).
 2. Load the dataset 'telco.csv'.
-3. Run the provided Python notebook `marketing_analytics.ipynb` to perform the analysis.
+3. Run the provided Python notebook `MA_Homework3_Zhora_Stepanyan.ipynb` to perform the analysis.
 
 ## Results and Findings
 
